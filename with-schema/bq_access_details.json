@@ -1,0 +1,41 @@
+{
+  "access": [
+    {
+      "role": "WRITER",
+      "specialGroup": "projectWriters"
+    },
+    {
+      "role": "OWNER",
+      "specialGroup": "projectOwners"
+    },
+    {
+      "role": "OWNER",
+      "userByEmail": "manoj.kumar@e.lloydsbanking.com"
+    },
+    {
+      "role": "READER",
+      "specialGroup": "projectReaders"
+    },
+    {
+      "role": "roles/bigquery.dataEditor",
+      "userByEmail": "service-<numeric_project_id>@gcp-sa-pubsub.iam.gserviceaccount.com"
+    },
+    {
+      "role": "roles/bigquery.metadataViewer",
+      "userByEmail": "service-numeric_project_id@gcp-sa-pubsub.iam.gserviceaccount.com"
+    }
+  ],
+  "creationTime": "1686577984655",
+  "datasetReference": {
+    "datasetId": "direct_pubsub_to_bq",
+    "projectId": "<project_id>"
+  },
+  "description": "Dataset to test out BigQuery pubsub subscription",
+  "etag": "H0IzYYnJ9jkWn+5eFa3jhA==",
+  "id": "<project_id>:direct_pubsub_to_bq",
+  "kind": "bigquery#dataset",
+  "lastModifiedTime": "1686577984655",
+  "location": "europe-west2",
+  "selfLink": "https://bigquery.googleapis.com/bigquery/v2/projects/<project_id>/datasets/direct_pubsub_to_bq",
+  "type": "DEFAULT"
+}

@@ -1,0 +1,65 @@
+[
+
+    {
+        "description": "pub sub message ID",
+        "mode": "NULLABLE",
+        "name": "message_id",
+        "type": "STRING"
+    },
+    {
+        "description": "Time stamp when message published",
+        "mode": "NULLABLE",
+        "name": "publish_time",
+        "type": "TIMESTAMP"
+    },
+    {
+        "description": "Attributes",
+        "mode": "NULLABLE",
+        "name": "attributes",
+        "type": "STRING"
+        
+    },
+    {
+        "description": "Subscription name",
+        "mode": "NULLABLE",
+        "name": "subscription_name",
+        "type": "STRING"
+        
+    },
+    {
+        "description": "Unique id for customer",
+        "mode": "NULLABLE",
+        "name": "cust_id",
+        "type": "STRING"
+    },
+    {
+        "description": "First name of customer",
+        "mode": "NULLABLE",
+        "name": "first_name",
+        "type": "STRING"
+    },
+    {
+        "description": "Last name of customer",
+        "mode": "NULLABLE",
+        "name": "last_name",
+        "type": "STRING"
+    },
+    {
+        "description": "Account type of customer",
+        "mode": "NULLABLE",
+        "name": "account_type",
+        "type": "STRING"
+    },
+    {
+        "description": "Customer since",
+        "mode": "NULLABLE",
+        "name": "customer_since",
+        "type": "STRING"
+    },
+    {
+        "description": "Is Active or not",
+        "mode": "NULLABLE",
+        "name": "active",
+        "type": "BOOL"
+    }
+]

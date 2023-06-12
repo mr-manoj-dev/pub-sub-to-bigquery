@@ -1,0 +1,402 @@
+[
+  {
+    "cust_id": "C001",
+    "first_name": "Olivia",
+    "last_name": "Jones",
+    "account_type": "CURRENT",
+    "customer_since": "2023-05-23",
+    "active": true
+  },
+  {
+    "cust_id": "C002",
+    "first_name": "Michael",
+    "last_name": "Johnson",
+    "account_type": "SAVINGS",
+    "customer_since": "2023-01-05",
+    "active": true
+  },
+  {
+    "cust_id": "C003",
+    "first_name": "Alice",
+    "last_name": "Davis",
+    "account_type": "CURRENT",
+    "customer_since": "2023-01-15",
+    "active": false
+  },
+  {
+    "cust_id": "C004",
+    "first_name": "David",
+    "last_name": "Williams",
+    "account_type": "SAVINGS",
+    "customer_since": "2023-01-02",
+    "active": true
+  },
+  {
+    "cust_id": "C005",
+    "first_name": "David",
+    "last_name": "Johnson",
+    "account_type": "CURRENT",
+    "customer_since": "2022-09-04",
+    "active": true
+  },
+  {
+    "cust_id": "C006",
+    "first_name": "Olivia",
+    "last_name": "Williams",
+    "account_type": "SAVINGS",
+    "customer_since": "2023-03-27",
+    "active": false
+  },
+  {
+    "cust_id": "C007",
+    "first_name": "David",
+    "last_name": "Jones",
+    "account_type": "CURRENT",
+    "customer_since": "2022-07-19",
+    "active": true
+  },
+  {
+    "cust_id": "C008",
+    "first_name": "Alice",
+    "last_name": "Jones",
+    "account_type": "SAVINGS",
+    "customer_since": "2022-12-09",
+    "active": true
+  },
+  {
+    "cust_id": "C009",
+    "first_name": "John",
+    "last_name": "Johnson",
+    "account_type": "SAVINGS",
+    "customer_since": "2023-03-23",
+    "active": false
+  },
+  {
+    "cust_id": "C010",
+    "first_name": "Michael",
+    "last_name": "Brown",
+    "account_type": "SAVINGS",
+    "customer_since": "2022-12-25",
+    "active": true
+  },
+  {
+    "cust_id": "C011",
+    "first_name": "John",
+    "last_name": "Johnson",
+    "account_type": "CURRENT",
+    "customer_since": "2022-12-07",
+    "active": false
+  },
+  {
+    "cust_id": "C012",
+    "first_name": "Alice",
+    "last_name": "Jones",
+    "account_type": "SAVINGS",
+    "customer_since": "2023-05-05",
+    "active": false
+  },
+  {
+    "cust_id": "C013",
+    "first_name": "David",
+    "last_name": "Smith",
+    "account_type": "SAVINGS",
+    "customer_since": "2022-09-12",
+    "active": true
+  },
+  {
+    "cust_id": "C014",
+    "first_name": "John",
+    "last_name": "Brown",
+    "account_type": "SAVINGS",
+    "customer_since": "2022-08-01",
+    "active": false
+  },
+  {
+    "cust_id": "C015",
+    "first_name": "Olivia",
+    "last_name": "Davis",
+    "account_type": "SAVINGS",
+    "customer_since": "2022-10-13",
+    "active": false
+  },
+  {
+    "cust_id": "C016",
+    "first_name": "John",
+    "last_name": "Williams",
+    "account_type": "SAVINGS",
+    "customer_since": "2022-07-29",
+    "active": false
+  },
+  {
+    "cust_id": "C017",
+    "first_name": "David",
+    "last_name": "Williams",
+    "account_type": "CURRENT",
+    "customer_since": "2022-08-17",
+    "active": true
+  },
+  {
+    "cust_id": "C018",
+    "first_name": "John",
+    "last_name": "Davis",
+    "account_type": "CURRENT",
+    "customer_since": "2022-10-18",
+    "active": false
+  },
+  {
+    "cust_id": "C019",
+    "first_name": "Alice",
+    "last_name": "Davis",
+    "account_type": "CURRENT",
+    "customer_since": "2023-02-06",
+    "active": false
+  },
+  {
+    "cust_id": "C020",
+    "first_name": "David",
+    "last_name": "Williams",
+    "account_type": "CURRENT",
+    "customer_since": "2023-04-04",
+    "active": false
+  },
+  {
+    "cust_id": "C021",
+    "first_name": "Olivia",
+    "last_name": "Jones",
+    "account_type": "SAVINGS",
+    "customer_since": "2023-01-25",
+    "active": true
+  },
+  {
+    "cust_id": "C022",
+    "first_name": "Olivia",
+    "last_name": "Jones",
+    "account_type": "SAVINGS",
+    "customer_since": "2023-05-04",
+    "active": false
+  },
+  {
+    "cust_id": "C023",
+    "first_name": "Olivia",
+    "last_name": "Brown",
+    "account_type": "SAVINGS",
+    "customer_since": "2023-04-09",
+    "active": false
+  },
+  {
+    "cust_id": "C024",
+    "first_name": "David",
+    "last_name": "Jones",
+    "account_type": "CURRENT",
+    "customer_since": "2023-06-06",
+    "active": false
+  },
+  {
+    "cust_id": "C025",
+    "first_name": "Alice",
+    "last_name": "Davis",
+    "account_type": "SAVINGS",
+    "customer_since": "2023-03-22",
+    "active": false
+  },
+  {
+    "cust_id": "C026",
+    "first_name": "Emma",
+    "last_name": "Davis",
+    "account_type": "SAVINGS",
+    "customer_since": "2022-11-26",
+    "active": true
+  },
+  {
+    "cust_id": "C027",
+    "first_name": "Emma",
+    "last_name": "Davis",
+    "account_type": "SAVINGS",
+    "customer_since": "2023-04-12",
+    "active": true
+  },
+  {
+    "cust_id": "C028",
+    "first_name": "David",
+    "last_name": "Davis",
+    "account_type": "SAVINGS",
+    "customer_since": "2023-06-07",
+    "active": false
+  },
+  {
+    "cust_id": "C029",
+    "first_name": "Olivia",
+    "last_name": "Williams",
+    "account_type": "CURRENT",
+    "customer_since": "2023-03-22",
+    "active": true
+  },
+  {
+    "cust_id": "C030",
+    "first_name": "Emma",
+    "last_name": "Johnson",
+    "account_type": "SAVINGS",
+    "customer_since": "2023-03-27",
+    "active": false
+  },
+  {
+    "cust_id": "C031",
+    "first_name": "David",
+    "last_name": "Brown",
+    "account_type": "SAVINGS",
+    "customer_since": "2023-02-12",
+    "active": true
+  },
+  {
+    "cust_id": "C032",
+    "first_name": "John",
+    "last_name": "Smith",
+    "account_type": "SAVINGS",
+    "customer_since": "2022-11-29",
+    "active": false
+  },
+  {
+    "cust_id": "C033",
+    "first_name": "David",
+    "last_name": "Brown",
+    "account_type": "CURRENT",
+    "customer_since": "2022-11-23",
+    "active": false
+  },
+  {
+    "cust_id": "C034",
+    "first_name": "Olivia",
+    "last_name": "Davis",
+    "account_type": "CURRENT",
+    "customer_since": "2023-06-07",
+    "active": false
+  },
+  {
+    "cust_id": "C035",
+    "first_name": "Emma",
+    "last_name": "Brown",
+    "account_type": "SAVINGS",
+    "customer_since": "2023-02-15",
+    "active": false
+  },
+  {
+    "cust_id": "C036",
+    "first_name": "Olivia",
+    "last_name": "Jones",
+    "account_type": "SAVINGS",
+    "customer_since": "2023-03-06",
+    "active": true
+  },
+  {
+    "cust_id": "C037",
+    "first_name": "Alice",
+    "last_name": "Johnson",
+    "account_type": "CURRENT",
+    "customer_since": "2023-03-17",
+    "active": false
+  },
+  {
+    "cust_id": "C038",
+    "first_name": "Michael",
+    "last_name": "Williams",
+    "account_type": "CURRENT",
+    "customer_since": "2022-08-08",
+    "active": true
+  },
+  {
+    "cust_id": "C039",
+    "first_name": "David",
+    "last_name": "Williams",
+    "account_type": "SAVINGS",
+    "customer_since": "2022-07-25",
+    "active": true
+  },
+  {
+    "cust_id": "C040",
+    "first_name": "Alice",
+    "last_name": "Brown",
+    "account_type": "CURRENT",
+    "customer_since": "2022-06-27",
+    "active": false
+  },
+  {
+    "cust_id": "C041",
+    "first_name": "John",
+    "last_name": "Brown",
+    "account_type": "CURRENT",
+    "customer_since": "2023-03-10",
+    "active": true
+  },
+  {
+    "cust_id": "C042",
+    "first_name": "John",
+    "last_name": "Jones",
+    "account_type": "SAVINGS",
+    "customer_since": "2022-07-09",
+    "active": true
+  },
+  {
+    "cust_id": "C043",
+    "first_name": "Michael",
+    "last_name": "Brown",
+    "account_type": "CURRENT",
+    "customer_since": "2023-02-09",
+    "active": true
+  },
+  {
+    "cust_id": "C044",
+    "first_name": "Emma",
+    "last_name": "Williams",
+    "account_type": "SAVINGS",
+    "customer_since": "2023-02-16",
+    "active": false
+  },
+  {
+    "cust_id": "C045",
+    "first_name": "Alice",
+    "last_name": "Johnson",
+    "account_type": "SAVINGS",
+    "customer_since": "2022-10-06",
+    "active": false
+  },
+  {
+    "cust_id": "C046",
+    "first_name": "John",
+    "last_name": "Johnson",
+    "account_type": "SAVINGS",
+    "customer_since": "2022-12-27",
+    "active": true
+  },
+  {
+    "cust_id": "C047",
+    "first_name": "Olivia",
+    "last_name": "Williams",
+    "account_type": "CURRENT",
+    "customer_since": "2022-08-05",
+    "active": true
+  },
+  {
+    "cust_id": "C048",
+    "first_name": "John",
+    "last_name": "Jones",
+    "account_type": "CURRENT",
+    "customer_since": "2022-08-23",
+    "active": true
+  },
+  {
+    "cust_id": "C049",
+    "first_name": "John",
+    "last_name": "Davis",
+    "account_type": "SAVINGS",
+    "customer_since": "2023-04-26",
+    "active": true
+  },
+  {
+    "cust_id": "C050",
+    "first_name": "Olivia",
+    "last_name": "Johnson",
+    "account_type": "CURRENT",
+    "customer_since": "2023-02-19",
+    "active": false
+  }
+]

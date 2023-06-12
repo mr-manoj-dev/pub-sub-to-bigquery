@@ -1,9 +1,0 @@
-syntax = 'proto3';
-{
-"id": "",
-"first_name": "",
-"last_name": "",
-"account_type": "",
-"customer_since": "",
-"active": false
-}
